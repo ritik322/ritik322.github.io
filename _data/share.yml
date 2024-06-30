@@ -16,9 +16,9 @@ platforms:
 
   # Uncomment below if you need to.
   #
-  - type: Linkedin
-    icon: "fab fa-linkedin"
-    link: "linkedin.com/in/ritik-mehta-7a8581252"
+  # - type: Linkedin
+  #   icon: "fab fa-linkedin"
+  #   link: "linkedin.com/in/ritik-mehta-7a8581252"
   #
   # - type: Weibo
   #   icon: "fab fa-weibo"
