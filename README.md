@@ -1,61 +1,44 @@
-# Chirpy Starter
+# MERN Stack Training Diary
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my training diary for the MERN stack! This diary documents my journey as I learn and build projects using MongoDB, Express.js, React, and Node.js.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Table of Contents
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+- [Introduction](#introduction)
+- [Goals](#goals)
+- [Resources](#resources)
+- [Training Schedule](#training-schedule)
+- [Project Ideas](#project-ideas)
+- [Challenges and Solutions](#challenges-and-solutions)
+- [Conclusion](#conclusion)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Introduction
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+This diary is intended to keep track of my learning progress, projects, and reflections as I work through the MERN stack. By maintaining this diary, I aim to reinforce my understanding, identify areas for improvement, and share my journey with others.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Goals
 
-## Prerequisites
+1. Gain a solid understanding of MongoDB, Express.js, React, and Node.js.
+2. Build and deploy at least three full-stack projects using the MERN stack.
+3. Document daily progress, challenges, and solutions.
+4. Improve problem-solving skills and coding best practices.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+## Resources
 
-## Installation
+Here are some of the resources I am using during my training:
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+- **MongoDB:**
+  - [MongoDB University](https://university.mongodb.com/)
+  - [Official Documentation](https://docs.mongodb.com/)
 
-Then clone it to your local machine and run:
+- **Express.js:**
+  - [Express.js Guide](https://expressjs.com/en/starter/guide.html)
+  - [NodeSchool Express Works](https://nodeschool.io/#workshoppers)
 
-```console
-$ bundle
-```
+- **React:**
+  - [React Official Documentation](https://reactjs.org/docs/getting-started.html)
+  - [React Tutorial for Beginners](https://www.freecodecamp.org/news/react-beginner-handbook/)
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+- **Node.js:**
+  - [Node.js Official Documentation](https://nodejs.org/en/docs/)
+  - [NodeSchool Learn You Node](https://nodeschool.io/#workshoppers)
