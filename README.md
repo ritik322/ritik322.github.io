@@ -7,10 +7,6 @@ Welcome to my training diary for the MERN stack! This diary documents my journey
 - [Introduction](#introduction)
 - [Goals](#goals)
 - [Resources](#resources)
-- [Training Schedule](#training-schedule)
-- [Project Ideas](#project-ideas)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
