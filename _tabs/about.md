@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# MERN Stack Training Diary
+# Web Devlopment Training Diary
 
 Welcome to my training diary for the MERN stack! This diary documents my journey as I learn and build projects using MongoDB, Express.js, React, and Node.js.
 

@@ -1,4 +1,4 @@
-# MERN Stack Training Diary
+# Web Development Training Diary
 
 Welcome to my training diary for the MERN stack! This diary documents my journey as I learn and build projects using MongoDB, Express.js, React, and Node.js.
 
